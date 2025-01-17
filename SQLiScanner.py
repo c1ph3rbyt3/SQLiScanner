@@ -213,7 +213,6 @@ def main(ruta_archivo, max_hilos, archivo_salida, url_unica):
                 urls = [line.strip() for line in file.readlines() if line.strip()]
 
             print(f"[🔍] Total de URLs a probar: {len(urls)}")
-            print(f"[⚙️] Máximo de hilos: {max_hilos}")
 
             with ThreadPoolExecutor(max_workers=max_hilos) as executor:
                 for url in urls:

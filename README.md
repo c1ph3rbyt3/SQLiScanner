@@ -1,4 +1,4 @@
-# SQLi Scanner
+# SQLi 5c4nn3r
 
 ## Descripción
 SQLi Scanner es una herramienta diseñada para probar inyecciones SQL en parámetros de URLs. Su propósito es identificar vulnerabilidades en aplicaciones web mediante una lista de payloads predefinidos.

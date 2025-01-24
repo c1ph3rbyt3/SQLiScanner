@@ -195,7 +195,7 @@ def probar_sqli(url, archivo_salida):
                     return
 
             except requests.exceptions.RequestException:
-                print(f"[⚠️] Error al intentar conectar con: {test_url} (Intento {intento + 1})")
+                print(f"[⚠️] Error al intentar conectar con: {test_url}")
                 sleep(RETRY_DELAY)
 
     print(f"[🛡️] No se detectaron vulnerabilidades en la URL: {url}")

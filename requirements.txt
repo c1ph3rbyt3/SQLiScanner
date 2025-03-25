@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 requests>=2.25.0
 colorama>=0.4.4
 urllib3>=1.26.5
+=======
+requests
+colorama
+>>>>>>> a86c5bb92802708b6faf0063ca5f48cd21d62a72

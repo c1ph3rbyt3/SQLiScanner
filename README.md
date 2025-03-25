@@ -32,8 +32,8 @@ pip install -r requirements.txt
 
 1. **Clona o descarga** este repositorio en tu sistema:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo-sqli-scanner.git
-   cd tu-repo-sqli-scanner
+   git clone https://github.com/c1ph3rbyt3/SQLiScanner.git
+   cd SQLiScanner
    ```
 2. **Instala** las dependencias requeridas:
    ```bash

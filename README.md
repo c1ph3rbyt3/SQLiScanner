@@ -156,15 +156,6 @@ python3 sql_scanner.py --file urls.txt --proxies proxies.txt --tamper urlencode 
 
 ---
 
-## Licencia y advertencia de uso
-
-- **Uso permitido solo en sistemas propios o con autorización previa.**
-- El autor no se hace responsable por usos indebidos.
-- Licencia: MIT.
-
----
-
 ## Contacto
 
-Desarrollado por: **C1ph3rByt3**  
-Para contribuciones, sugerencias o errores, abre un *issue* en este repositorio o crea un *pull request*.
+Desarrollado por: **C1ph3rByt3**
